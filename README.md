@@ -9,5 +9,6 @@ npm install
 
 
 Just uncomment the CRUD operation code in App.js File.
-It doesn't have any UI all operations can be viewed in console.
+It doesn't have any UI.
+All operations can be viewed in console.
 
